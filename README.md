@@ -22,18 +22,14 @@ I'm currently looking for work in the San Diego area!
 
 ## Projects
 
-<a href="https://drumcorpsdle.netlify.app">
-  <img align="center" src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/drumcorpsdle.png" width="440"/>
-</a>
-<br>
-<br>
 <a href="https://github.com/rgmfn/spotify-tags">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=spotify-tags&theme=nord" />
 </a>
-<br>
-<br>
 <a href="https://github.com/rgmfn/corg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=corg&theme=nord" />
+</a>
+<a href="https://drumcorpsdle.netlify.app">
+  <img align="center" src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/drumcorpsdle.png" width="440"/>
 </a>
 
 ## Upcoming Projects
