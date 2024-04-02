@@ -20,28 +20,28 @@ I'm currently looking for work in the San Diego area!
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## Projects
+<!-- ## Projects -->
 
-<a href="https://github.com/rgmfn/spotify-tags">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=spotify-tags&theme=nord" />
-</a>
-<a href="https://github.com/rgmfn/corg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=corg&theme=nord" />
-</a>
-<a href="https://drumcorpsdle.netlify.app">
-  <img align="center" src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/drumcorpsdle.png" width="440"/>
-</a>
+<!-- <a href="https://github.com/rgmfn/spotify-tags"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=spotify-tags&theme=nord" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/rgmfn/corg"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgmfn&repo=corg&theme=nord" /> -->
+<!-- </a> -->
+<!-- <a href="https://drumcorpsdle.netlify.app"> -->
+<!--   <img align="center" src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/drumcorpsdle.png" width="440"/> -->
+<!-- </a> -->
 
-## Upcoming Projects
+<!-- ## Upcoming Projects -->
 
-* ### Habit Forming
-    https://rgmfn.netlify.app/programs/habitforming
+<!-- * ### Habit Forming -->
+<!--     https://rgmfn.netlify.app/programs/habitforming -->
 
-    An Android app for tracking your daily, weekly, and monthly habits.
+<!--     An Android app for tracking your daily, weekly, and monthly habits. -->
     
-    [<img src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/habit forming prerelease.png" />](https://rgmfn.netlify.app/programs/habitforming)
+<!--     [<img src="https://raw.githubusercontent.com/rgmfn/rgmfn/main/habit forming prerelease.png" />](https://rgmfn.netlify.app/programs/habitforming) -->
     
-    Initial release coming soon!
+<!--     Initial release coming soon! -->
 
-## Advent of Code 2023 in Go
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HFzpkD5JvJk/0.jpg)](https://www.youtube.com/watch?v=HFzpkD5JvJk&list=PLUrcwzrJaG0hxyYqhRj5gfracECmRY314)
+<!-- ## Advent of Code 2023 in Go -->
+<!-- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HFzpkD5JvJk/0.jpg)](https://www.youtube.com/watch?v=HFzpkD5JvJk&list=PLUrcwzrJaG0hxyYqhRj5gfracECmRY314) -->
