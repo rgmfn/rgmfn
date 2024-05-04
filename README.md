@@ -1,6 +1,4 @@
   ### Hi :wave:, I'm Ryan, a software developer always looking to learn, explore, and grow.
-  
-I'm currently looking for work in the San Diego area (or remote)!
 
 ## Links
 
