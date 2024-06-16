@@ -2,7 +2,7 @@
 
 ## Links
 
-[![](https://img.shields.io/badge/My%20Website-5ea675?style=for-the-badge)](https://linkedin.com/in/rgmfn)
+[![](https://img.shields.io/badge/My%20Website-5ea675?style=for-the-badge)](https://rgmfn.netlify.app/)
 [![](https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RagamuffinAround)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgmfn)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rgmfn.dev@gmail.com)](mailto:rgmfn.dev@gmail.com)
