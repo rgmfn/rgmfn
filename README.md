@@ -1,5 +1,7 @@
   ### Hi :wave:, I'm Ryan, a software developer always looking to learn, explore, and grow.
 
+I'm currently looking for work in the San Diego area!
+
 ## Links
 
 [![](https://img.shields.io/badge/My%20Website-5ea675?style=for-the-badge)](https://rgmfn.netlify.app/)
